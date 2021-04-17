@@ -14,3 +14,5 @@
 - 😄 目前我准备换工作，有 go 开发岗位可以联系我🤔🤔
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dchaofei&show_icons=true&icon_color=4B1E2F&text_color=718096&bg_color=FFFFFF&hide_title=true&count_private=true&include_all_commits=true" />
+
+<img align="center" style="display: none;" src="http://profile-counter.glitch.me/dchaofei/count.svg" alt="dchaofei :: Visitor's Count" />
