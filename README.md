@@ -15,11 +15,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dchaofei&show_icons=true&icon_color=4B1E2F&text_color=718096&bg_color=FFFFFF&hide_title=true&count_private=true&include_all_commits=true" />
 
-<details>
-<summary>I could use some help...</summary>
-<p>
 
 <img align="center" src="http://profile-counter.glitch.me/dchaofei/count.svg" alt="dchaofei :: Visitor's Count" />
 
-</p>
-</details>
+
+<p class="wtest">weofjsjflsf</p>
