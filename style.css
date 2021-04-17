@@ -1,3 +1,7 @@
 .visitor-count {
-  display:none
+  display:none;
+}
+
+p {
+  color:red;
 }
